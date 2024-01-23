@@ -28,7 +28,7 @@ This project consists of several key phases, each critical to understanding and 
 ### 4. Model Selection
    - **Final Model Choice**: After experimenting with various models, selecting the best one to predict "which passengers were transported by the anomaly."
    - **Model Training and Validation**: Fine-tuning the chosen model to maximize its predictive accuracy.
-   - 
+     
 ## Conclusion
 
 This project is not just a journey through data science but also an adventure into a cosmic mystery. The goal is to save lives and write a new chapter in the history of interstellar travel. Your insights and contributions are highly valued.
